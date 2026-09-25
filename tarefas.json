@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1ae7386f-fbbd-4593-ae99-7bea40c1388a",
+        "titulo": "Varrer a casa",
+        "concluida": true,
+        "data": "24/09/2026 21:03"
+    },
+    {
+        "id": "6aa8fd35-1bb7-405a-83ea-39a49c43ea90",
+        "titulo": "Lavar o banheiro",
+        "concluida": true,
+        "data": "24/09/2026 21:03"
+    },
+    {
+        "id": "49875aa2-b886-493a-a363-24701e2b621d",
+        "titulo": "Lavar a louça",
+        "concluida": true,
+        "data": "24/09/2026 21:04"
+    }
+]
